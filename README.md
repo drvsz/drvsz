@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drivzz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drvzs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drivzz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drvzs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 🎓 I'm currently studying **Software Engineering**.  
-🧠 You might know me as **Drivz**.  
-💬 Discord: **drivzzzz**
+🧠 You might know me as **drvzs**.  
+💬 Discord: **drvzs**
 
 ---
 
