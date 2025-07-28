@@ -1,6 +1,6 @@
-🎓 I'm currently studying **Software Engineering**.  
-🧠 You might know me as **drvzs**.  
-💬 Discord: **drvzs**
+🎓 Software Engineer.  
+🧠 You might know me as g4.  
+💬 Discord: **therealgfour**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
